@@ -1,0 +1,1816 @@
+[
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [],
+        "frame_data": [],
+        "page_number": 1,
+        "tables": []
+    },
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [],
+        "frame_data": [],
+        "page_number": 2,
+        "tables": []
+    },
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [],
+        "frame_data": [],
+        "page_number": 3,
+        "tables": [
+            [
+                "Legend"
+            ],
+            [
+                "1. Column\n2. Base Plate\n3. Anchors\n4. Bracing\n5. Beam\n6. Connector"
+            ]
+        ]
+    },
+    {
+        "configuration_name": "CR1",
+        "levels": 5,
+        "loads": [
+            "1073",
+            "12750",
+            "4441",
+            "5000",
+            "5000",
+            "5000",
+            "5000",
+            "5000",
+            "2817",
+            "4999"
+        ],
+        "frame_data": [],
+        "page_number": 4,
+        "tables": [
+            [
+                null,
+                "",
+                null,
+                ""
+            ],
+            [
+                null,
+                null,
+                "",
+                null
+            ],
+            [
+                null,
+                "",
+                null,
+                ""
+            ],
+            [
+                null,
+                null,
+                "",
+                null
+            ],
+            [
+                null,
+                "",
+                null,
+                ""
+            ],
+            [
+                null,
+                "",
+                null,
+                ""
+            ],
+            [
+                null,
+                "",
+                "",
+                ""
+            ],
+            [
+                null,
+                "",
+                null,
+                ""
+            ],
+            [
+                null,
+                "",
+                null,
+                ""
+            ],
+            [
+                null,
+                null,
+                "",
+                null
+            ],
+            [
+                null,
+                "",
+                null,
+                ""
+            ],
+            [
+                null,
+                "",
+                null,
+                ""
+            ],
+            [
+                null,
+                "",
+                null,
+                ""
+            ],
+            [
+                "",
+                "",
+                null,
+                ""
+            ]
+        ]
+    },
+    {
+        "configuration_name": "CR2",
+        "levels": 5,
+        "loads": [
+            "1073",
+            "12750",
+            "4441",
+            "20191",
+            "5000",
+            "5000",
+            "5000",
+            "5000",
+            "5000",
+            "2817",
+            "4999"
+        ],
+        "frame_data": [],
+        "page_number": 5,
+        "tables": [
+            [
+                "COMPONENTS AND SPECIFICATIONS Configuration 2: CR2\nM 1.7\nAnalysis per section 2209 of the IBC2021\nS = 1.29 F = 1.2 I = 1 V = 1073 lbs. P = 12750 lbs.\ns a Long static\nLevels: 5 Panels:L 1oa1d per Level S = 0.45 F = 1.85 SDC = D V = 4441 lbs. P = 20191 lbs.\n1 v Trans seismic",
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                "5000 lbs\n10\"\n32\"\n60\"\n5000 lbs\n32\"\n60\" 32\"\n5000 lbs\n32\"\n60\" 30\"\n336\"\n5000 lbs\n34\"\n78\" 32\"\n24\"\n5000 lbs\n24\"\n78\" 24\"\n24\"\n6\"\n96\" 42\"\nFRONT VIEW SIDE VIEW",
+                null,
+                null,
+                null,
+                null
+            ],
+            [
+                "FRAME",
+                "BEAM",
+                null,
+                null,
+                "CONNECTOR"
+            ],
+            [
+                "COLUMN\n3.98 x 2.72 - .089 (4B101)\nSteel = 55000 psi\nStress = 56% (level 3)\nBACKER TO LEVEL 2\n3.98 x 2.72 - .089 (4B101)\nSteel = 55000 psi\nStress = 72% (level 1)\nHORIZONTAL BRACE\n2.756 x 1.378 - .06 (C715)\nStress = 57% (panel 1)\nDIAGONAL BRACE\n2.756 x 1.378 - .06 (C715)\nStress = 80% (panel 7)",
+                "4.00 x 2.75 -0.059 (40E)\nSteel = 55 ksi Max Static Cap. = 5906 lb.\nStress = 86%\nMax stress = 86% (level 1)",
+                null,
+                null,
+                "5 Tab Connector (IM)\nStress = 80%\nMax stress = 80% (level 1)"
+            ],
+            [
+                "Base Plate",
+                null,
+                "Slab & Soil",
+                "Anchors",
+                null
+            ],
+            [
+                "Steel = 36000 psi *\n12 x 23 x 0.5 in. 7 anchors/plate\nMoment = 8500 in-lb. Stress = 8%",
+                null,
+                "Slab = 6\" x 4000 psi\nSub Grade Reaction = 50 pci\nSlab Bending Stress = 59% (S)",
+                "Hilti Kwik Bolt TZ 2 (KB-TZ2) ESR-4266\n0.625 in. x 4.5 in. Embed.\nPullout Capacity = 2817 lbs.\nShear Capacity = 4999 lbs.\nAnchor stress = 90%",
+                null
+            ],
+            [
+                "Notes:\nBCR 14'\nSPST 4X24; 7X32\nFull depth base plate 12\"x46\"x0.5\" + STIFFENER BETWEEN COLUMNS with Sx=9.5\", Sy=6\". 14 anchors/plate. 2 anchors in middle,\n6 anchors on each end\nDiagonal Braces Doubled 1 - 6",
+                null,
+                null,
+                null,
+                null
+            ]
+        ]
+    },
+    {
+        "configuration_name": "CT1",
+        "levels": 4,
+        "loads": [
+            "966",
+            "11475",
+            "3997",
+            "5001",
+            "5001",
+            "5001",
+            "5001",
+            "2817",
+            "4999"
+        ],
+        "frame_data": [],
+        "page_number": 6,
+        "tables": [
+            [
+                "",
+                null,
+                ""
+            ],
+            [
+                null,
+                "",
+                null
+            ],
+            [
+                "",
+                null,
+                ""
+            ],
+            [
+                null,
+                "",
+                null
+            ],
+            [
+                "",
+                null,
+                ""
+            ],
+            [
+                "",
+                null,
+                ""
+            ],
+            [
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                null,
+                ""
+            ],
+            [
+                "",
+                null,
+                ""
+            ],
+            [
+                null,
+                "",
+                null
+            ],
+            [
+                "",
+                null,
+                ""
+            ],
+            [
+                "",
+                null,
+                ""
+            ],
+            [
+                "",
+                null,
+                ""
+            ],
+            [
+                "",
+                null,
+                ""
+            ]
+        ]
+    },
+    {
+        "configuration_name": null,
+        "levels": 5,
+        "loads": [
+            "500",
+            "25500",
+            "17250",
+            "33",
+            "25",
+            "88",
+            "75",
+            "62",
+            "77",
+            "62",
+            "1073",
+            "4441"
+        ],
+        "frame_data": [],
+        "page_number": 7,
+        "tables": []
+    },
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [],
+        "frame_data": [],
+        "page_number": 8,
+        "tables": [
+            [
+                "",
+                null,
+                "Longitudinal",
+                null,
+                null,
+                "Transverse",
+                null,
+                null
+            ],
+            [
+                "Level",
+                "h\nx",
+                "w\nx",
+                "wh\nx x",
+                "f\ni",
+                "w\nx",
+                "wh\nx x",
+                "f\ni"
+            ],
+            [
+                "1",
+                "96",
+                "2550",
+                "244800",
+                "95.38",
+                "2550",
+                "244800",
+                "394.76"
+            ],
+            [
+                "2",
+                "156",
+                "2550",
+                "397800",
+                "154.99",
+                "2550",
+                "397800",
+                "641.48"
+            ],
+            [
+                "3",
+                "216",
+                "2550",
+                "550800",
+                "214.6",
+                "2550",
+                "550800",
+                "888.2"
+            ],
+            [
+                "4",
+                "276",
+                "2550",
+                "703800",
+                "274.21",
+                "2550",
+                "703800",
+                "1134.92"
+            ],
+            [
+                "5",
+                "336",
+                "2550",
+                "856800",
+                "333.82",
+                "2550",
+                "856800",
+                "1381.64"
+            ]
+        ]
+    },
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [],
+        "frame_data": [],
+        "page_number": 9,
+        "tables": [
+            [
+                "# of levels",
+                null,
+                "5",
+                null
+            ],
+            [
+                "min. # of bays",
+                null,
+                "3",
+                null
+            ],
+            [
+                "N\nc",
+                null,
+                "60",
+                null
+            ],
+            [
+                "N\nb",
+                null,
+                "8",
+                null
+            ],
+            [
+                "k\nc",
+                null,
+                "520 kip-in/rad",
+                null
+            ],
+            [
+                "k\nbe",
+                null,
+                "2861 kip-in/rad",
+                null
+            ],
+            [
+                "k\nb",
+                null,
+                "177 kip-in/rad",
+                null
+            ],
+            [
+                "k\nce",
+                null,
+                "711 kip-in/rad",
+                null
+            ],
+            [
+                "I\nb",
+                null,
+                "1.55 in4",
+                null
+            ],
+            [
+                "L",
+                null,
+                "96 in",
+                null
+            ],
+            [
+                "I\nc",
+                null,
+                "2.03 in4",
+                null
+            ],
+            [
+                "H",
+                null,
+                "336 in",
+                null
+            ],
+            [
+                "E",
+                null,
+                "29500 ksi",
+                null
+            ],
+            [
+                "Level",
+                "h\npi",
+                null,
+                "W\npi"
+            ],
+            [
+                "1",
+                "123 in",
+                null,
+                "5 kip"
+            ],
+            [
+                "2",
+                "183 in",
+                null,
+                "5 kip"
+            ],
+            [
+                "3",
+                "243 in",
+                null,
+                "5 kip"
+            ],
+            [
+                "4",
+                "303 in",
+                null,
+                "5 kip"
+            ],
+            [
+                "5",
+                "382 in",
+                null,
+                "5 kip"
+            ]
+        ]
+    },
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [
+            "441",
+            "073",
+            "364",
+            "500",
+            "250",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "350",
+            "800",
+            "925",
+            "925",
+            "018",
+            "653",
+            "225",
+            "515",
+            "32",
+            "500",
+            "312",
+            "975",
+            "251",
+            "440",
+            "750"
+        ],
+        "frame_data": [],
+        "page_number": 10,
+        "tables": []
+    },
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [
+            "537",
+            "537"
+        ],
+        "frame_data": [],
+        "page_number": 11,
+        "tables": [
+            [
+                "Levels",
+                "h\ni",
+                "f\ni",
+                "Axial Load",
+                "Moment",
+                "Beam End\nMoment",
+                "Connector\nMoment"
+            ],
+            [
+                "1\n2\n3\n4\n5",
+                "96\n60\n60\n60\n60",
+                "48\n77\n107\n137\n167",
+                "12,750\n10,200\n7,650\n5,100\n2,550",
+                "41,978\n22,646\n22,646\n22,646\n22,646",
+                "7,147\n5,551\n5,551\n5,551\n5,551",
+                "39,459\n28,197\n28,197\n28,197\n16,874"
+            ]
+        ]
+    },
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [
+            "30660",
+            "26061"
+        ],
+        "frame_data": [],
+        "page_number": 12,
+        "tables": [
+            [
+                "3.98 x 2.72 - .089",
+                null
+            ],
+            [
+                "SECTION PROPERTIES",
+                null
+            ],
+            [
+                "Depth",
+                "5.438 in."
+            ],
+            [
+                "Width",
+                "3.984 in."
+            ],
+            [
+                "t",
+                "0.089 in."
+            ],
+            [
+                "Radius",
+                "0.089 in."
+            ],
+            [
+                "Area",
+                "1.829 in.2"
+            ],
+            [
+                "AreaNet",
+                "1.453 in.2"
+            ],
+            [
+                "I\nx",
+                "4.054 in.4"
+            ],
+            [
+                "S\nx",
+                "2.035 in.3"
+            ],
+            [
+                "S\nx Net",
+                "1.743 in.3"
+            ],
+            [
+                "R\nx",
+                "1.489 in."
+            ],
+            [
+                "I\ny",
+                "4.99 in.4"
+            ],
+            [
+                "S\ny",
+                "1.595 in.3"
+            ],
+            [
+                "R\ny",
+                "1.652 in."
+            ],
+            [
+                "J",
+                "0.005 in.4"
+            ],
+            [
+                "C\nw",
+                "5.421 in.6"
+            ],
+            [
+                "J\nx",
+                "2.463 in."
+            ],
+            [
+                "X\no",
+                "-2.124 in."
+            ],
+            [
+                "K\nx",
+                "1.7"
+            ],
+            [
+                "L\nx",
+                "94 in."
+            ],
+            [
+                "K\ny",
+                "1"
+            ],
+            [
+                "L\ny",
+                "24 in."
+            ],
+            [
+                "K\nt",
+                "0.8"
+            ],
+            [
+                "F\ny",
+                "55 ksi"
+            ],
+            [
+                "F\nu",
+                "65 ksi"
+            ],
+            [
+                "Q",
+                "1"
+            ],
+            [
+                "G",
+                "11300 ksi"
+            ],
+            [
+                "E",
+                "29500 ksi"
+            ],
+            [
+                "C\nmx",
+                "0.85"
+            ],
+            [
+                "C\ns",
+                "-1"
+            ],
+            [
+                "C\nb",
+                "1"
+            ],
+            [
+                "C\ntf",
+                "1"
+            ],
+            [
+                "Phi\nb",
+                "0.9"
+            ],
+            [
+                "Phi\nc",
+                "0.85"
+            ]
+        ]
+    },
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [
+            "67927",
+            "79915",
+            "46224",
+            "2522566",
+            "018",
+            "653",
+            "17800"
+        ],
+        "frame_data": [],
+        "page_number": 13,
+        "tables": [
+            [
+                "3.98 x 2.72 - .089",
+                null
+            ],
+            [
+                "SECTION PROPERTIES",
+                null
+            ],
+            [
+                "Depth",
+                "5.438 in."
+            ],
+            [
+                "Width",
+                "3.984 in."
+            ],
+            [
+                "t",
+                "0.089 in."
+            ],
+            [
+                "Radius",
+                "0.089 in."
+            ],
+            [
+                "Area",
+                "1.829 in. 2"
+            ],
+            [
+                "AreaNet",
+                "1.453 in. 2"
+            ],
+            [
+                "I\nx",
+                "4.054 in. 4"
+            ],
+            [
+                "S\nx",
+                "2.035 in. 3"
+            ],
+            [
+                "S\nx Net",
+                "1.743 in. 3"
+            ],
+            [
+                "R\nx",
+                "1.489 in."
+            ],
+            [
+                "I\ny",
+                "4.99 in. 4"
+            ],
+            [
+                "S\ny",
+                "1.595 in. 3"
+            ],
+            [
+                "R\ny",
+                "1.652 in."
+            ],
+            [
+                "J",
+                "0.005 in. 4"
+            ],
+            [
+                "C\nw",
+                "5.421 in. 6"
+            ],
+            [
+                "J\nx",
+                "2.463 in."
+            ],
+            [
+                "X\no",
+                "-2.124 in."
+            ],
+            [
+                "K\nx",
+                "1.7"
+            ],
+            [
+                "L\nx",
+                "94 in."
+            ],
+            [
+                "K\ny",
+                "1"
+            ],
+            [
+                "L\ny",
+                "24 in."
+            ],
+            [
+                "K\nt",
+                "0.8"
+            ],
+            [
+                "F\ny",
+                "55 ksi"
+            ],
+            [
+                "F\nu",
+                "65 ksi"
+            ],
+            [
+                "Q",
+                "1"
+            ],
+            [
+                "G",
+                "11300 ksi"
+            ],
+            [
+                "E",
+                "29500 ksi"
+            ],
+            [
+                "C\nmx",
+                "0.85"
+            ],
+            [
+                "C\ns",
+                "-1"
+            ],
+            [
+                "C\nb",
+                "1"
+            ],
+            [
+                "C\ntf",
+                "1"
+            ],
+            [
+                "Phi\nb",
+                "0.9"
+            ],
+            [
+                "Phi\nc",
+                "0.85"
+            ]
+        ]
+    },
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [
+            "26882",
+            "22850"
+        ],
+        "frame_data": [],
+        "page_number": 14,
+        "tables": [
+            [
+                "3.98 x 2.72 - .089",
+                null
+            ],
+            [
+                "SECTION PROPERTIES",
+                null
+            ],
+            [
+                "Depth",
+                "2.719 in."
+            ],
+            [
+                "Width",
+                "3.984 in."
+            ],
+            [
+                "t",
+                "0.089 in."
+            ],
+            [
+                "Radius",
+                "0.089 in."
+            ],
+            [
+                "Area",
+                "0.914 in.2"
+            ],
+            [
+                "AreaNet",
+                "0.727 in.2"
+            ],
+            [
+                "I\nx",
+                "2.027 in.4"
+            ],
+            [
+                "S\nx",
+                "1.018 in.3"
+            ],
+            [
+                "S\nx Net",
+                "0.871 in.3"
+            ],
+            [
+                "R\nx",
+                "1.489 in."
+            ],
+            [
+                "I\ny",
+                "0.805 in.4"
+            ],
+            [
+                "S\ny",
+                "0.455 in.3"
+            ],
+            [
+                "R\ny",
+                "0.939 in."
+            ],
+            [
+                "J",
+                "0.002 in.4"
+            ],
+            [
+                "C\nw",
+                "2.711 in.6"
+            ],
+            [
+                "J\nx",
+                "2.55 in."
+            ],
+            [
+                "X\no",
+                "-2.124 in."
+            ],
+            [
+                "K\nx",
+                "1.5"
+            ],
+            [
+                "L\nx",
+                "58 in."
+            ],
+            [
+                "K\ny",
+                "1"
+            ],
+            [
+                "L\ny",
+                "24 in."
+            ],
+            [
+                "K\nt",
+                "0.8"
+            ],
+            [
+                "F\ny",
+                "55 ksi"
+            ],
+            [
+                "F\nu",
+                "65 ksi"
+            ],
+            [
+                "Q",
+                "0.9"
+            ],
+            [
+                "G",
+                "11300 ksi"
+            ],
+            [
+                "E",
+                "29500 ksi"
+            ],
+            [
+                "C\nmx",
+                "0.85"
+            ],
+            [
+                "C\ns",
+                "-1"
+            ],
+            [
+                "C\nb",
+                "1"
+            ],
+            [
+                "C\ntf",
+                "1"
+            ],
+            [
+                "Phi\nb",
+                "0.9"
+            ],
+            [
+                "Phi\nc",
+                "0.85"
+            ]
+        ]
+    },
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [
+            "31413",
+            "36956",
+            "77975",
+            "407109",
+            "336",
+            "123",
+            "14240"
+        ],
+        "frame_data": [],
+        "page_number": 15,
+        "tables": [
+            [
+                "3.98 x 2.72 - .089",
+                null
+            ],
+            [
+                "SECTION PROPERTIES",
+                null
+            ],
+            [
+                "Depth",
+                "2.719 in."
+            ],
+            [
+                "Width",
+                "3.984 in."
+            ],
+            [
+                "t",
+                "0.089 in."
+            ],
+            [
+                "Radius",
+                "0.089 in."
+            ],
+            [
+                "Area",
+                "0.914 in. 2"
+            ],
+            [
+                "AreaNet",
+                "0.727 in. 2"
+            ],
+            [
+                "I\nx",
+                "2.027 in. 4"
+            ],
+            [
+                "S\nx",
+                "1.018 in. 3"
+            ],
+            [
+                "S\nx Net",
+                "0.871 in. 3"
+            ],
+            [
+                "R\nx",
+                "1.489 in."
+            ],
+            [
+                "I\ny",
+                "0.805 in. 4"
+            ],
+            [
+                "S\ny",
+                "0.455 in. 3"
+            ],
+            [
+                "R\ny",
+                "0.939 in."
+            ],
+            [
+                "J",
+                "0.002 in. 4"
+            ],
+            [
+                "C\nw",
+                "2.711 in. 6"
+            ],
+            [
+                "J\nx",
+                "2.55 in."
+            ],
+            [
+                "X\no",
+                "-2.124 in."
+            ],
+            [
+                "K\nx",
+                "1.5"
+            ],
+            [
+                "L\nx",
+                "58 in."
+            ],
+            [
+                "K\ny",
+                "1"
+            ],
+            [
+                "L\ny",
+                "24 in."
+            ],
+            [
+                "K\nt",
+                "0.8"
+            ],
+            [
+                "F\ny",
+                "55 ksi"
+            ],
+            [
+                "F\nu",
+                "65 ksi"
+            ],
+            [
+                "Q",
+                "0.9"
+            ],
+            [
+                "G",
+                "11300 ksi"
+            ],
+            [
+                "E",
+                "29500 ksi"
+            ],
+            [
+                "C\nmx",
+                "0.85"
+            ],
+            [
+                "C\ns",
+                "-1"
+            ],
+            [
+                "C\nb",
+                "1"
+            ],
+            [
+                "C\ntf",
+                "1"
+            ],
+            [
+                "Phi\nb",
+                "0.9"
+            ],
+            [
+                "Phi\nc",
+                "0.85"
+            ]
+        ]
+    },
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [],
+        "frame_data": [],
+        "page_number": 16,
+        "tables": []
+    },
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [
+            "5548",
+            "5430"
+        ],
+        "frame_data": [],
+        "page_number": 17,
+        "tables": []
+    },
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [],
+        "frame_data": [],
+        "page_number": 18,
+        "tables": [
+            [
+                "Level",
+                "M\nstatic",
+                "M\nallow,static",
+                "M\nseismic",
+                "M\nallow,seismic",
+                "Result"
+            ],
+            [
+                "1",
+                "30,576",
+                "35,436",
+                "17,370",
+                "35,436",
+                "Pass"
+            ],
+            [
+                "2",
+                "30,576",
+                "32,580",
+                "8,233",
+                "32,580",
+                "Pass"
+            ],
+            [
+                "3",
+                "30,576",
+                "32,580",
+                "5,461",
+                "32,580",
+                "Pass"
+            ],
+            [
+                "4",
+                "30,576",
+                "32,580",
+                "3,313",
+                "32,580",
+                "Pass"
+            ],
+            [
+                "5",
+                "30,576",
+                "32,580",
+                "2,776",
+                "32,580",
+                "Pass"
+            ]
+        ]
+    },
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [
+            "2673",
+            "2405",
+            "36",
+            "3982",
+            "4749",
+            "2405"
+        ],
+        "frame_data": [],
+        "page_number": 19,
+        "tables": []
+    },
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [
+            "158",
+            "534"
+        ],
+        "frame_data": [],
+        "page_number": 20,
+        "tables": [
+            [
+                "2.756 x 1.378 - .06",
+                null
+            ],
+            [
+                "SECTION PROPERTIES",
+                null
+            ],
+            [
+                "Depth",
+                "2.756 in."
+            ],
+            [
+                "Width",
+                "1.378 in."
+            ],
+            [
+                "t",
+                "0.06 in."
+            ],
+            [
+                "Radius",
+                "0.09 in."
+            ],
+            [
+                "Area",
+                "0.317 in^2"
+            ],
+            [
+                "AreaNet",
+                "0.317 in^2"
+            ],
+            [
+                "Ix",
+                "0.381 in^4"
+            ],
+            [
+                "Sx",
+                "0.276 in^3"
+            ],
+            [
+                "Sx net",
+                "0.276 in^3"
+            ],
+            [
+                "Rx",
+                "1.095 in."
+            ],
+            [
+                "Iy",
+                "0.061 in^4"
+            ],
+            [
+                "Sy",
+                "0.06 in^3"
+            ],
+            [
+                "Ry",
+                "0.437 in."
+            ],
+            [
+                "J",
+                "0 in^4"
+            ],
+            [
+                "Cw",
+                "0.074 in^6"
+            ],
+            [
+                "Jx",
+                "1.615 in."
+            ],
+            [
+                "Xo",
+                "-0.862 in."
+            ],
+            [
+                "Kx",
+                "0"
+            ],
+            [
+                "Lx",
+                "59 in."
+            ],
+            [
+                "Ky",
+                "1"
+            ],
+            [
+                "Ly",
+                "59 in."
+            ],
+            [
+                "Kt",
+                "0.8"
+            ],
+            [
+                "Fyv",
+                "50 ksi"
+            ],
+            [
+                "Fuv",
+                "60 ksi"
+            ],
+            [
+                "Q",
+                "1"
+            ],
+            [
+                "G",
+                "11300 ksi"
+            ],
+            [
+                "E",
+                "29500 ksi"
+            ],
+            [
+                "Cmx",
+                "0.85"
+            ],
+            [
+                "Cs",
+                "-1"
+            ],
+            [
+                "Cb",
+                "1"
+            ],
+            [
+                "Ctf",
+                "1"
+            ],
+            [
+                "Phib",
+                "0.9"
+            ],
+            [
+                "Phic",
+                "0.85"
+            ]
+        ]
+    },
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [
+            "485",
+            "865",
+            "825",
+            "060",
+            "158",
+            "948",
+            "55"
+        ],
+        "frame_data": [],
+        "page_number": 21,
+        "tables": [
+            [
+                "2.756 x 1.378 - .06",
+                null
+            ],
+            [
+                "SECTION PROPERTIES",
+                null
+            ],
+            [
+                "Depth",
+                "2.756 in."
+            ],
+            [
+                "Width",
+                "1.378 in."
+            ],
+            [
+                "t",
+                "0.06 in."
+            ],
+            [
+                "Radius",
+                "0.09 in."
+            ],
+            [
+                "Area",
+                "0.317 in^2"
+            ],
+            [
+                "AreaNet",
+                "0.317 in^2"
+            ],
+            [
+                "Ix",
+                "0.381 in^4"
+            ],
+            [
+                "Sx",
+                "0.276 in^3"
+            ],
+            [
+                "Sx net",
+                "0.276 in^3"
+            ],
+            [
+                "Rx",
+                "1.095 in."
+            ],
+            [
+                "Iy",
+                "0.061 in^4"
+            ],
+            [
+                "Sy",
+                "0.06 in^3"
+            ],
+            [
+                "Ry",
+                "0.437 in."
+            ],
+            [
+                "J",
+                "0 in^4"
+            ],
+            [
+                "Cw",
+                "0.074 in^6"
+            ],
+            [
+                "Jx",
+                "1.615 in."
+            ],
+            [
+                "Xo",
+                "-0.862 in."
+            ],
+            [
+                "Kx",
+                "0"
+            ],
+            [
+                "Lx",
+                "59 in."
+            ],
+            [
+                "Ky",
+                "1"
+            ],
+            [
+                "Ly",
+                "59 in."
+            ],
+            [
+                "Kt",
+                "0.8"
+            ],
+            [
+                "Fyv",
+                "50 ksi"
+            ],
+            [
+                "Fuv",
+                "60 ksi"
+            ],
+            [
+                "Q",
+                "1"
+            ],
+            [
+                "G",
+                "11300 ksi"
+            ],
+            [
+                "E",
+                "29500 ksi"
+            ],
+            [
+                "Cmx",
+                "0.85"
+            ],
+            [
+                "Cs",
+                "-1"
+            ],
+            [
+                "Cb",
+                "1"
+            ],
+            [
+                "Ctf",
+                "1"
+            ],
+            [
+                "Phib",
+                "0.9"
+            ],
+            [
+                "Phic",
+                "0.85"
+            ]
+        ]
+    },
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [
+            "9999",
+            "3756",
+            "2817",
+            "6665",
+            "4999"
+        ],
+        "frame_data": [],
+        "page_number": 22,
+        "tables": []
+    },
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [
+            "869",
+            "8601",
+            "294",
+            "548",
+            "869",
+            "294",
+            "548"
+        ],
+        "frame_data": [],
+        "page_number": 23,
+        "tables": []
+    },
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [
+            "660",
+            "713",
+            "197",
+            "452",
+            "633",
+            "660",
+            "197",
+            "633"
+        ],
+        "frame_data": [],
+        "page_number": 24,
+        "tables": []
+    },
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [
+            "000",
+            "500",
+            "750",
+            "018",
+            "638",
+            "888",
+            "416",
+            "480",
+            "420",
+            "817",
+            "999"
+        ],
+        "frame_data": [],
+        "page_number": 25,
+        "tables": []
+    },
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [
+            "39018"
+        ],
+        "frame_data": [],
+        "page_number": 26,
+        "tables": []
+    },
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [],
+        "frame_data": [],
+        "page_number": 27,
+        "tables": [
+            [
+                "# of levels",
+                null,
+                "5",
+                null
+            ],
+            [
+                "min. # of bays",
+                null,
+                "3",
+                null
+            ],
+            [
+                "N\nc",
+                null,
+                "60",
+                null
+            ],
+            [
+                "N\nb",
+                null,
+                "8",
+                null
+            ],
+            [
+                "k\nc",
+                null,
+                "520 kip-in/rad",
+                null
+            ],
+            [
+                "k\nbe",
+                null,
+                "2861 kip-in/rad",
+                null
+            ],
+            [
+                "k\nb",
+                null,
+                "177 kip-in/rad",
+                null
+            ],
+            [
+                "k\nce",
+                null,
+                "711 kip-in/rad",
+                null
+            ],
+            [
+                "I\nb",
+                null,
+                "1.55 in4",
+                null
+            ],
+            [
+                "L",
+                null,
+                "96 in",
+                null
+            ],
+            [
+                "I\nc",
+                null,
+                "2.03 in4",
+                null
+            ],
+            [
+                "H",
+                null,
+                "336 in",
+                null
+            ],
+            [
+                "E",
+                null,
+                "29500 ksi",
+                null
+            ],
+            [
+                "Level",
+                "h\npi",
+                null,
+                "W\npi"
+            ],
+            [
+                "1",
+                "123 in",
+                null,
+                "5 kip"
+            ],
+            [
+                "2",
+                "183 in",
+                null,
+                "5 kip"
+            ],
+            [
+                "3",
+                "243 in",
+                null,
+                "5 kip"
+            ],
+            [
+                "4",
+                "303 in",
+                null,
+                "5 kip"
+            ],
+            [
+                "5",
+                "382 in",
+                null,
+                "5 kip"
+            ]
+        ]
+    },
+    {
+        "configuration_name": null,
+        "levels": null,
+        "loads": [
+            "018",
+            "575",
+            "745",
+            "440",
+            "575",
+            "525"
+        ],
+        "frame_data": [],
+        "page_number": 28,
+        "tables": []
+    }
+]
